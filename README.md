@@ -1,6 +1,8 @@
 # The “Unofficial” Helix MIDI Guide
 
-Version 3.1
+***Version 3.1***
+
+> This is based on the excellent work from [The Unofficial Helix MIDI Guide](https://www.dropbox.com/scl/fi/a0lc12mbwonz9i1erglwx/The-Unofficial-Helix-MIDI-Guide.pdf?rlkey=3qnc90qlrrixrwcwbew5vz0mn&e=1&dl=0) created by Stoopalini. I found the PDF version a bit of a hassle to navigate, search, crawl and feed it to LLMs so I took it upon myself to convert it to markdown format, and make some edits for clarity and formatting.
 
 # Table of Contents
 
