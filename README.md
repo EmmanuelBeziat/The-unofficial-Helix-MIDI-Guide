@@ -37,8 +37,8 @@
 	- [5.3 - MIDI message order](#53---midi-message-order)
 - [6 - Command Center Snapshot Assignment Issue](#6---command-center-snapshot-assignment-issue)
 - [7 - MIDI CC Quick Reference Charts](#7---midi-cc-quick-reference-charts)
-	- [7.1 - Pedal and Footswitch assignments](#71---pedal-and-footswitch-assignments)
-	- [7.2 - Looper Control assignments](#72---looper-control-assignments)
+	- [7.1 - Pedal and Footswitch](#71---pedal-and-footswitch)
+	- [7.2 - Looper Control](#72---looper-control)
 	- [7.3 - Additional Controls](#73---additional-controls)
 
 ## 1 - Basic information
